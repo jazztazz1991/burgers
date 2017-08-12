@@ -6,7 +6,8 @@ var router = express.Router();
 var burger = require("../models/burger.js");
 
 router.get('/', function(req, res) {
-	res.redirect('/index');
+	res.redirect('https://cnn.com');
+//    console.log()
 });
 
 router.get("/index", function(req, res) {
