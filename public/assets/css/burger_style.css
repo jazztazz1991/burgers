@@ -1,0 +1,24 @@
+body {
+	background-color: tan;
+    margin: 20px auto;
+    width: 80%;
+    text-align: center;
+}
+
+#right{
+    float: right;
+    width: 40%;
+}
+
+#left{
+    float: left;
+    width: 50%;
+}
+#addBurger{
+    margin: auto;
+    clear: both;
+}
+img {
+	width: 200px;
+	height: auto;
+}
